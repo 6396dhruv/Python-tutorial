@@ -1,0 +1,4 @@
+###### is a nice ###### but not a bad ######.
+
+python is a good language and we can use it in machine learning
+
