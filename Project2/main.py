@@ -1,3 +1,5 @@
+# calculator with saving history
+
 def show_history():
     file = open("history.txt", "r")
     lines = file.readlines()

@@ -1,3 +1,5 @@
+# fake headline generator
+
 # step 1 - import the random module
 import random
 
